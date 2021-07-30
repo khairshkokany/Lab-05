@@ -40,7 +40,7 @@ ReactDOM.render(
       />
       <Route path="/login-page" exact render={props => <Login {...props} />} />
       <Route
-        path="/profile-page"
+        path="/"
         exact
         render={props => <Profile {...props} />}
       />

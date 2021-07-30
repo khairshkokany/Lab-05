@@ -211,7 +211,7 @@ class DemoNavbar extends React.Component {
                       </span>
                     </NavLink>
                     <UncontrolledTooltip delay={0} target="tooltip333589074">
-                      Like us on Facebook
+                      Connect us in linkedin
                     </UncontrolledTooltip>
                   </NavItem>
                   <NavItem>
@@ -262,21 +262,9 @@ class DemoNavbar extends React.Component {
                       Star us on Github
                     </UncontrolledTooltip>
                   </NavItem>
-                  <NavItem className="d-none d-lg-block ml-lg-4">
-                    {/* <Button
-                      className="btn-neutral btn-icon"
-                      color="default"
-                      href="https://www.creative-tim.com/product/argon-design-system-react?ref=adsr-navbar"
-                      target="_blank"
-                    >
-                      <span className="btn-inner--icon">
-                        <i className="fa fa-cloud-download mr-2" />
-                      </span>
-                      <span className="nav-link-inner--text ml-1">
-                        Download
-                      </span>
-                    </Button> */}
-                  </NavItem>
+                  {/* <NavItem className="d-none d-lg-block ml-lg-4">
+                
+                  </NavItem> */}
                 </Nav>
               </UncontrolledCollapse>
             </Container>
