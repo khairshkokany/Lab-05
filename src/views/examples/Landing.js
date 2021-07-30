@@ -93,7 +93,7 @@ class Landing extends React.Component {
                         <Button
                           className="btn-icon mb-3 mb-sm-0"
                           color="info"
-                          href="https://demos.creative-tim.com/argon-design-system-react/#/documentation/alerts?ref=adsr-landing-page"
+                          href="https://trello.com/khairshkokany"
                         >
                           <span className="btn-inner--icon mr-1">
                             <i className="fa fa-code" />
